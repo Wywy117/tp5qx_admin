@@ -1,0 +1,7 @@
+1、域名指向 public
+2、导入demo_689.sql
+3、修改 application\database.php
+
+后台： 域名+/admin
+
+账号 admin 密码 123456
